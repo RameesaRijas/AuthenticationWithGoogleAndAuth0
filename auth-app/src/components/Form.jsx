@@ -1,6 +1,7 @@
 function Form() {
   return (
     <div className="form-group ">
+    
     <label>Email </label>
     <input
       type="email"

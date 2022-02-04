@@ -8,7 +8,6 @@ function Profile() {
     isAuthenticated && (
     <div>
       <img src={user.picture} alt={user.name}>
-
       </img>
       <h2>{user.name}</h2>
       <h3>{user.email}</h3>

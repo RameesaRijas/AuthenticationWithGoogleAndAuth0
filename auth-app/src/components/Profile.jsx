@@ -1,4 +1,3 @@
-
 import { userAuth0 } from "@auth0/auth0-react";
 
 function Profile() {

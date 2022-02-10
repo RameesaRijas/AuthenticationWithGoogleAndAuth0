@@ -6,8 +6,7 @@ function Profile() {
   return (
     isAuthenticated && (
     <div>
-      <img src={user.picture} alt={user.name}>
-      </img>
+      <img src={user.picture} alt={user.name}/>
       <h2>{user.name}</h2>
       <h3>{user.email}</h3>
       {/* {JSON.stringify(user, null, 2)} */}

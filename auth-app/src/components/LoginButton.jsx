@@ -7,5 +7,4 @@ function LoginButton() {
   return <button onClick={() => loginWithRedirect()}>Login</button>
 }
 
-
 export default LoginButton;

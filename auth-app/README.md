@@ -1,3 +1,3 @@
-# Authentication With Auth0 and google
+# Authentication With Auth0
 
-
+Authentication with auth0

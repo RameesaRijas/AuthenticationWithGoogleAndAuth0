@@ -1,4 +1,3 @@
-
 function Form() {
   
   return (
@@ -17,7 +16,6 @@ function Form() {
       id="password"
       placeholder="Enter Password"
     />
-
   </div>
   )
 }
